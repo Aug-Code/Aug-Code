@@ -88,6 +88,6 @@ Me chamo Augusto Sousa, tenho 16 anos e sou  naturalmente do Maranhão. Estou cu
       alt="GitHub Stats" 
       height="200" 
         style="padding-right: 10px;" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aug-Code&layout=donut&theme=tokyonight&langs_count=4&custom_title=Tecnologia" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aug-Code&layout=donut&theme=tokyonight&langs_count=1&custom_title=Tecnologia" 
   />
 </p>
